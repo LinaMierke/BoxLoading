@@ -1,29 +1,23 @@
-# Project Title
+# Day 6: 50 days HTML/CSS/JS
 
 Simple overview of use/purpose.
 
 ## Description
 
-A in-depth paragraph about your project and overview of use.
+50 days small challenges to practice and learn more about HTML/CSS/JavaScript. 
 
 ## Getting Started
 
-
 ### Executing program
-
-
 
 ```
  open index.html
 ```
 
-
 ## Authors
 
 Lina Mierke
 linamirke@gmail.com
-
-
 
 ## License
 
@@ -33,6 +27,4 @@ This project is licensed under the [LinaMierke] License - see the LICENSE.md fil
 
 Inspiration, code snippets, etc.
 
-* 50days/50challenges (https://www.udemy.com/course/50-projects-50-days)
-
-
+- 50days/50challenges (https://www.udemy.com/course/50-projects-50-days)
